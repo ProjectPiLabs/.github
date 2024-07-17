@@ -4,7 +4,7 @@
 
 Hello Pi Pals, Welcome to the Project Pi GitHub 🔨
 
-The Project Pi GitHub is a place where Project Pi contributors come together to grow a wider staking ecosystem 🌍 We are a community of contributors strongly aligned with open-source culture and we welcome any new contributions, feature requests, issues or pull requests 💡
+The Project Pi GitHub is a place where Project Pi contributors come together to grow a wider staking ecosystem. 🌍 We are a community of contributors strongly aligned with open-source culture and we welcome any new contributions, feature requests, issues or pull requests 💡
 
 We are excited and honoured to be a part of the web3 developer community - we’ll see you around!
 
