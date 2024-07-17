@@ -20,7 +20,7 @@ Any and all contributions are greatly appreciated so please do not hesitate to g
 To get started, check out a few of the repos below:
 
 - [Project Pi](https://www.projectpi.xyz/) - The Main Project Pi Website,
-- [Project Hub](https://hub.projectpi.xyz/) - Lido DAO on-chain operations,
+- [Project Hub](https://hub.projectpi.xyz/) - Pi DAO on-chain operations,
 - [Early Stakers](https://earlystake.projectpi.xyz/) - Early Stakers Statstics,
 - [Pi Pools](https://pools.projectpi.xyz/) - Pi Pools Status,
 - [Pi Calculator](https://portal.projectpi.xyz/calculator) - Pi Pools Rewards calculator,
