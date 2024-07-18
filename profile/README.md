@@ -10,20 +10,20 @@ We are excited and honored to be a part of the Web3 developer community - we’l
 
 ## 🧑🏽‍🚀 About Project Pi
 
-Project Pi is a liquid-staking protocol built to make staking as secure and decentralized as possible. As a family of open-source, peer-to-system software tools, Project Pi is currently deployed and  on the PulseChain blockchain network.
+Project Pi is a liquid-staking protocol on the PulseChain blockchain, designed to make staking secure and decentralized. We simplify the staking process for validators and liquid stakers, making validation more affordable and accessible.
 
-The Project Pi protocol is governed by the Pi DAO - an independent collection of contributors, staking enthusiasts and governance participants 🧑🏽‍🚀
+Our user-friendly interfaces, robust security measures, and seamless integration lower technical barriers and enhance the staking experience, empowering users to participate with confidence. 🧑🏽‍🚀
 
 ## 🚀 Getting Started
 
 Any and all contributions are greatly appreciated so please do not hesitate to get involved ⚡  
 To get started, check out a few of the repos below:
 
-- [Project Pi](https://www.projectpi.xyz/) - The Main Project Pi Website,
-- [Project Hub](https://hub.projectpi.xyz/) - Pi DAO on-chain operations,
-- [Early Stakers](https://earlystake.projectpi.xyz/) - Early Stakers Statstics,
-- [Pi Pools](https://pools.projectpi.xyz/) - Pi Pools Status,
-- [Pi Calculator](https://portal.projectpi.xyz/calculator) - Pi Pools Rewards calculator,
+- [Project Pi](https://www.projectpi.xyz/) - Main Project Pi Website
+- [Project Hub](https://hub.projectpi.xyz/) - Application Website
+- [Early Stakers](https://earlystake.projectpi.xyz/) - Early Stakers Statstics
+- [Pi Pools](https://pools.projectpi.xyz/) - Pi Pools Status
+- [Pi Calculator](https://portal.projectpi.xyz/calculator) - Pi Pools Rewards calculator
 - [Analytics](https://data.projectpi.xyz/) - Project Hub Analytics
 
 
