@@ -21,7 +21,7 @@ To get started, check out a few of the repos below:
 
 - [Project Pi](https://www.projectpi.xyz/) - Main Project Pi Website
 - [Project Hub](https://hub.projectpi.xyz/) - Application Website
-- [Early Stakers](https://earlystake.projectpi.xyz/) - Early Stakers Statstics
+- [Early Stakers](https://earlystake.projectpi.xyz/) - Early Stakers Statistics
 - [Pi Pools](https://pools.projectpi.xyz/) - Pi Pools Status
 - [Pi Calculator](https://portal.projectpi.xyz/calculator) - Pi Pools Rewards calculator
 - [Analytics](https://data.projectpi.xyz/) - Project Hub Analytics
