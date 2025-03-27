@@ -19,14 +19,11 @@ The Project Pi protocol is governed by the Pi DAO - an independent collection of
 Any and all contributions are greatly appreciated so please do not hesitate to get involved ⚡  
 To get started, check out a few of the repos below:
 
-- [Project Pi](https://www.projectpi.xyz/) - The Main Project Pi Website,
-- [Project Hub](https://hub.projectpi.xyz/) - Lido DAO on-chain operations,
-- [Early Stakers](https://earlystake.projectpi.xyz/) - Early Stakers Statstics,
-- [Pi Pools](https://pools.projectpi.xyz/) - Pi Pools Status,
-- [Pi Calculator](https://portal.projectpi.xyz/calculator) - Pi Pools Rewards calculator,
-- [Analytics](https://data.projectpi.xyz/) - Project Hub Analytics
-
-
+- [Project Pi](https://www.projectpi.xyz/) - Main Project Pi Website
+- [Project Hub](https://app.projectpi.xyz/) - Application Website
+- - [Analytics](https://data.projectpi.xyz/) - Project Hub Analytics
+- [Pi Pools](https://data.projectpi.xyz/pipools) -  Pi Pools Status
+- [Pi Calculator](https://data.projectpi.xyz/calculator) -Pi Pools Rewards calculator
 
 ## 🔗 Additional Resources
 
@@ -36,7 +33,6 @@ Some of the more useful resources have been compiled below. Browse away 📜
 - [Twitter](https://x.com/ProjectPi314)
 - [LinkedIn](https://www.linkedin.com/company/projectpi314/)
 - [Telegram](https://t.me/Project_Pi314)
-- [Discord](https://discord.com/invite/NZ4EJ25UcZ)
 - [Medium](https://medium.com/@projectpi/)
 - [YouTube](https://www.youtube.com/@Project_Pi)
 
