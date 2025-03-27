@@ -21,7 +21,7 @@ To get started, check out a few of the repos below:
 
 - [Project Pi](https://www.projectpi.xyz/) - Main Project Pi Website
 - [Project Hub](https://app.projectpi.xyz/) - Application Website
-- - [Analytics](https://data.projectpi.xyz/) - Project Hub Analytics
+- [Analytics](https://data.projectpi.xyz/) - Project Hub Analytics
 - [Pi Pools](https://data.projectpi.xyz/pipools) -  Pi Pools Status
 - [Pi Calculator](https://data.projectpi.xyz/calculator) -Pi Pools Rewards calculator
 
