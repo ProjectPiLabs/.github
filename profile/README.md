@@ -2,7 +2,7 @@
 
 ![project pi banner](/assets/Twitter.png)
 
-Hello Pi Pals, Welcome to the Project Pi GitHub 🔨
+Hello Pioneers, Welcome to the Project Pi GitHub 🔨
 
 The Project Pi GitHub is a place where Project Pi contributors come together to grow a wider staking ecosystem. 🌍 We are a community of contributors strongly aligned with open-source culture and we welcome any new contributions, feature requests, issues or pull requests 💡
 
@@ -20,10 +20,10 @@ Any and all contributions are greatly appreciated so please do not hesitate to g
 To get started, check out a few of the repos below:
 
 - [Project Pi](https://www.projectpi.xyz/) - Main Project Pi Website
-- [Project Hub](https://hub.projectpi.xyz/) - Application Website
+- [Project Hub](https://app.projectpi.xyz/) - Application Website
 - [Analytics](https://data.projectpi.xyz/) - Project Hub Protocol Stats
-- [Pi Pools](https://pools.projectpi.xyz/) - Pi Pools Status
-- [Pi Calculator](https://portal.projectpi.xyz/calculator) - Pi Pools Rewards calculator
+- [Pi Pools](https://data.projectpi.xyz/pipools) - Pi Pools Status
+- [Pi Calculator](https://data.projectpi.xyz/calculator) - Pi Pools Rewards calculator
 
 
 
