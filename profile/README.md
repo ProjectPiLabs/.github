@@ -32,9 +32,9 @@ To get started, check out a few of the repos below:
 Some of the more useful resources have been compiled below. Browse away 📜
 
 - [Documentation](https://docs.projectpi.xyz/welcome/)
-- [Twitter](https://x.com/ProjectPi314)
-- [LinkedIn](https://www.linkedin.com/company/projectpi314/)
-- [Telegram](https://t.me/Project_Pi314)
+- [Twitter](https://x.com/ProjectPiLabs)
+- [LinkedIn](https://www.linkedin.com/company/projectpilabs/)
+- [Telegram](https://t.me/ProjectPiLabs)
 - [Discord](https://discord.com/invite/NZ4EJ25UcZ)
 - [Medium](https://medium.com/@projectpi/)
 - [YouTube](https://www.youtube.com/@Project_Pi)
