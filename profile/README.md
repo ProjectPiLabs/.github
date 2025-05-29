@@ -35,7 +35,6 @@ Some of the more useful resources have been compiled below. Browse away 📜
 - [Twitter](https://x.com/ProjectPiLabs)
 - [LinkedIn](https://www.linkedin.com/company/projectpilabs/)
 - [Telegram](https://t.me/ProjectPiLabs)
-- [Discord](https://discord.com/invite/NZ4EJ25UcZ)
 - [Medium](https://medium.com/@projectpi/)
 - [YouTube](https://www.youtube.com/@Project_Pi)
 
