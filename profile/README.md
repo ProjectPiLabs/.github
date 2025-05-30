@@ -10,10 +10,10 @@ Welcome to the Project Pi Labs GitHub 🔨
 ## 🚀 Getting Started
 
 
-- [Project Pi](https://www.projectpi.xyz/) - Pi Pools Main Website - Pi Pools Website - The Future of Liquid Staking
-- [Project Hub](https://app.projectpi.xyz/) - Pi Pools Dapp - Pi Pools - Validating 8/16M PLS + Liquid Staking on PulseChain $stPLS $PPY 6-12%+ APY Liquid Staking 43-108% APR Validators
-- [Analytics](https://gotchas.fun/) - Gotchas - Gotchas - Reimaging how we interact with wallets
-- [Pi Pools](https://liquid-os.io) - Liquid OS - Liquid OS - ♾️
+- [Pi Pools Main Website](https://www.projectpi.xyz/) - The Future of Liquid Staking
+- [Pi Pools Dapp](https://app.projectpi.xyz/) -  Validating 8/16M PLS + Liquid Staking on PulseChain $stPLS $PPY 6-12%+ APY Liquid Staking 43-108% APR Validators
+- [Gotchas](https://gotchas.fun/) - Reimaging how we interact with wallets
+- [Pi Pools](https://liquid-os.io) -  ♾️
 
 ## 🔗 Additional Resources
 
