@@ -4,7 +4,7 @@
 
 Welcome to the Project Pi Labs GitHub 🔨
 
-**Project Pi Labs** is an Atlanta-based studio dedicated to building secure, yield-generating blockchain infrastructure through validators, liquid staking, and decentralized AI solutions. Originally developed to support our own internal protocols, our infrastructure has evolved into tailored, real-world solutions designed explicitly for founders, communities, and institutions. Leveraging decentralized artificial intelligence, transparent collaboration, and scalable blockchain validation, Project Pi Labs empowers trusted ecosystems, fostering innovation and reliable,
+**Project Pi Labs** is an Atlanta-based studio dedicated to building secure, yield-generating blockchain infrastructure through validators, liquid staking, and decentralized AI solutions. Originally developed to support our own internal protocols, our infrastructure has evolved into tailored, real-world solutions designed explicitly for founders, communities, and institutions. Leveraging decentralized artificial intelligence, transparent collaboration, and scalable blockchain validation, Project Pi Labs empowers trusted ecosystems, fostering innovation and reliable, efficient yields at scale.
 
 ## 🧑🏽‍🚀 About Project Pi
 
