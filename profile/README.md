@@ -11,7 +11,7 @@ Welcome to the Project Pi Labs GitHub 🔨
 
 
 - [Pi Pools Main Website](https://www.projectpi.xyz/) - The Future of Liquid Staking
-- [Pi Pools Dapp](https://app.projectpi.xyz/) -  Validating 8/16M PLS + Liquid Staking on PulseChain $stPLS $PPY 6-12%+ APY Liquid Staking 43-108% APR Validators
+- [Pi Pools Dapp](https://app.projectpi.xyz/) -   PulseChain Liquid Staking Protocol | Earn 6–12%+ APY ($stPLS) & 43–108% APR on 8M/16M PLS Validators ($PPY)
 - [Gotchas](https://gotchas.fun/) - Reimaging how we interact with wallets
 - [Pi Pools](https://liquid-os.io) -  ♾️
 
