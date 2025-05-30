@@ -1,6 +1,6 @@
 # Project Pi: Liquid Staking For All
 
-![project pi banner](/assets/1500x500.png)
+![project pi banner](/assets/1500x500.jpeg)
 
 Hello Pi Pals, Welcome to the Project Pi GitHub 🔨
 
