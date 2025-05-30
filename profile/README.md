@@ -1,12 +1,10 @@
-# Project Pi: Liquid Staking For All
+# Project Pi Labs: Yield Generating Infrastructure Studio 
 
-![project pi banner](/assets/Twitter.png)
+![project pi banner](/assets/1500x500.jpeg)
 
-Hello Pioneers, Welcome to the Project Pi GitHub 🔨
+Welcome to the Project Pi Labs GitHub 🔨
 
-The Project Pi GitHub is a place where Project Pi contributors come together to grow a wider staking ecosystem. 🌍 We are a community of contributors strongly aligned with open-source culture and we welcome any new contributions, feature requests, issues or pull requests 💡
-
-We are excited and honored to be a part of the Web3 developer community - we’ll see you around!
+**Project Pi Labs** is an Atlanta-based studio dedicated to building secure, yield-generating blockchain infrastructure through validators, liquid staking, and decentralized AI solutions. Originally developed to support our own internal protocols, our infrastructure has evolved into tailored, real-world solutions designed explicitly for founders, communities, and institutions. Leveraging decentralized artificial intelligence, transparent collaboration, and scalable blockchain validation, Project Pi Labs empowers trusted ecosystems, fostering innovation and reliable,
 
 ## 🧑🏽‍🚀 About Project Pi
 
