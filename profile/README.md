@@ -39,7 +39,7 @@ We partner with **visionary founders**, **L1 ecosystems**, and **institutions** 
 
 - **🌟 Flagship**: **Liquid Agent** - The natural language layer for Web3 autonomy
 - **⚡ Focus**: AI for blockchain execution and autonomous Web3 interactions  
-- **🤝 Partnerships**: OpenAI integration + AI Quant solutions
+- **🤝 Partnerships**: OpenAI integration + OVHcloud
 - **🔮 Innovation**: Bridging traditional interfaces with blockchain functionality
 
 ### ⚡ **Validation & Computation**
