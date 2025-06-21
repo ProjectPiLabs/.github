@@ -137,11 +137,11 @@ Stand With Crypto | Various Blockchain Accelerators
 
 [![Start Liquid Staking](https://img.shields.io/badge/💰_Start_Liquid_Staking-8--12%25_APY-success?style=for-the-badge&logo=ethereum)](https://app.projectpi.xyz/liquid-staking/)
 
-[![Try Liquid Agent](https://img.shields.io/badge/🤖_Try_Liquid_Agent-Web3_AI-blueviolet?style=for-the-badge&logo=openai)](#)
+[![Try Liquid Agent](https://img.shields.io/badge/🤖_Try_Liquid_Agent-Web3_AI-blueviolet?style=for-the-badge&logo=openai)](https://beta.liquidagent.ai/login)
 
-[![Book Consultation](https://img.shields.io/badge/📞_Book_Consultation-Custom_Solutions-orange?style=for-the-badge&logo=calendly)](#)
+[![Book Consultation](https://img.shields.io/badge/📞_Book_Consultation-Custom_Solutions-orange?style=for-the-badge&logo=calendly)](https://calendly.com/projectpilabs/30min)
 
-[![Visit Website](https://img.shields.io/badge/🌐_Visit_Website-projectpilabs.com-blue?style=for-the-badge&logo=safari)](https://projectpilabs.com)
+[![Visit Website](https://img.shields.io/badge/🌐_Visit_Website-projectpilabs.com-blue?style=for-the-badge&logo=safari)](https://labs.projectpi.xyz)
 
 </div>
 
