@@ -1,30 +1,161 @@
-# Project Pi Labs: Yield Generating Infrastructure Studio 
+# 🚀 Project Pi Labs
 
-![project pi banner](/assets/1500x500.jpeg)
+<div align="center">
 
-Welcome to the Project Pi Labs GitHub 🔨
+![Header](https://via.placeholder.com/800x200/4676f0/ffffff?text=Project+Pi+Labs)
 
-**Project Pi Labs** is an Atlanta-based studio dedicated to building secure, yield-generating blockchain infrastructure through validators, liquid staking, and decentralized AI solutions. Originally developed to support our own internal protocols, our infrastructure has evolved into tailored, real-world solutions designed explicitly for founders, communities, and institutions. Leveraging decentralized artificial intelligence, transparent collaboration, and scalable blockchain validation, Project Pi Labs empowers trusted ecosystems, fostering innovation and reliable, efficient yields at scale.
+**Yield Generating Infrastructure Studio**
 
+*Architects of advanced infrastructure at the edge of decentralization*
 
-## 🚀 Getting Started
+[![Website](https://img.shields.io/badge/🌐_Website-projectpilabs.com-4676f0?style=for-the-badge)](https://projectpilabs.com)
+[![Liquid Staking](https://img.shields.io/badge/💰_Liquid_Staking-8--12%25_APY-d072f1?style=for-the-badge)](https://app.projectpi.xyz/liquid-staking/)
+[![AI Agent](https://img.shields.io/badge/🤖_Liquid_Agent-Web3_AI-9f5ef1?style=for-the-badge)](#ai)
 
+</div>
 
-- [Pi Pools Main Website](https://www.projectpi.xyz/) - The Future of Liquid Staking
-- [Pi Pools Dapp](https://app.projectpi.xyz/) -   PulseChain Liquid Staking Protocol | Earn 6–12%+ APY ($stPLS) & 43–108% APR on 8M/16M PLS Validators ($PPY)
-- [Gotchas](https://gotchas.fun/) - Reimaging how we interact with wallets
-- [Pi Pools](https://liquid-os.io) -  ♾️
+---
 
-## 🔗 Additional Resources
+## 🎯 **What We Do**
 
-Some of the more useful resources have been compiled below. Browse away 📜
+Project Pi Labs builds **yield infrastructure through validators, liquid staking, and on-chain AI**. What began as infrastructure for our own protocol now powers tailored solutions for founders, protocols, and institutions.
 
-- [Documentation](https://docs.projectpi.xyz/welcome/)
-- [Twitter](https://x.com/ProjectPiLabs)
-- [LinkedIn](https://www.linkedin.com/company/projectpilabs/)
-- [Telegram](https://t.me/ProjectPiLabs)
-- [Medium](https://medium.com/@projectpi/)
-- [YouTube](https://www.youtube.com/@Project_Pi)
+We partner with **visionary founders**, **L1 ecosystems**, and **institutions** to inject utility into blockchain networks — bridging validator economies, AI agents, and financial flows.
 
+---
 
-Lastly - if you’re looking to join our fundrasing round for Pi Pools, check out the [form](https://share.hsforms.com/1_fvLprLlQOWeXa1FOxHZxgqg6ix) here!
+## 🏗️ **Core Services**
+
+### 💰 **Yield Services**
+*"What if real-world solutions were built directly from Web3 infrastructure?"*
+
+- **🔥 Liquid Staking**: 8-12% APY returns
+- **🎯 Target**: Founders, enterprises, institutions, Web3 builders  
+- **🚀 Live App**: [app.projectpi.xyz/liquid-staking](https://app.projectpi.xyz/liquid-staking/)
+- **📞 Custom Solutions**: Available via consultation
+
+### 🤖 **Programmable Artificial Intelligence** {#ai}
+*"What if decentralized AI could power transparent, secure, and intelligent Web3 infrastructure?"*
+
+- **🌟 Flagship**: **Liquid Agent** - The natural language layer for Web3 autonomy
+- **⚡ Focus**: AI for blockchain execution and autonomous Web3 interactions  
+- **🤝 Partnerships**: OpenAI integration + AI Quant solutions
+- **🔮 Innovation**: Bridging traditional interfaces with blockchain functionality
+
+### ⚡ **Validation & Computation**
+*"What if blockchain infrastructure could deliver reliable, efficient yields at scale?"*
+
+- **🛡️ Enterprise Validators**: Multi-chain infrastructure at scale
+- **🌐 Networks**: Base, Ethereum, Polygon, SUI, XDC, XRPL, PulseChain
+- **☁️ Infrastructure**: Enterprise-grade cloud solutions
+
+### 📊 **Unbounded Knowledge & Data**
+*"What if open knowledge accelerated innovation across trusted ecosystems?"*
+
+- **🔬 Trusted Ecosystems**: Building verifiable knowledge networks
+- **🎓 Academic Partnerships**: University collaborations & research
+- **🔍 Transparency**: Open, verifiable data sharing across decentralized networks
+
+---
+
+## 🛠️ **Technology Stack**
+
+<div align="center">
+
+### **Blockchain Infrastructure**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+### **Development Stack**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### **AI & Integration**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=flat-square&logo=coinbase&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 **Ecosystem Partners**
+
+<div align="center">
+
+### **🔗 Blockchain Networks**
+Base | Ethereum | Polygon | SUI | XDC | XRPL | PulseChain
+
+### **🎓 Academic Partners**  
+Atlanta Blockchain Center | Georgia State University | Stillman College | Blockchain Legal Institute
+
+### **🛡️ Security Partners**
+ChainAudits | Zokyo | RD Auditors | SourceHat
+
+### **🏛️ Industry Organizations**
+Stand With Crypto | Various Blockchain Accelerators
+
+</div>
+
+---
+
+## 🎯 **Why Choose Project Pi Labs?**
+
+| **🔥 Yield Focus** | **🤖 AI Pioneer** | **🏢 Enterprise Ready** | **🌟 Full Stack** |
+|:---:|:---:|:---:|:---:|
+| Everything built for 8-12% returns | Natural language Web3 interfaces | Serving startups to institutions | Smart contracts to user interfaces |
+
+### **🏆 Key Differentiators**
+
+- **💎 Yield Generating Infrastructure**: Every solution designed for returns
+- **🗣️ Natural Language Web3**: AI-powered interfaces making blockchain accessible  
+- **⚡ Multi-Chain Expertise**: Professional validators across leading networks
+- **🍑 Atlanta Advantage**: Georgia's growing blockchain hub with university partnerships
+- **🔄 End-to-End Solutions**: Complete infrastructure to user-facing applications
+
+---
+
+## 🎯 **Target Markets**
+
+- **👥 Founders & Startups**: Custom Web3 infrastructure solutions
+- **🔗 Protocols**: Validator and staking infrastructure  
+- **🏢 Institutions**: Enterprise-grade blockchain solutions
+- **👤 Retail Users**: High-yield liquid staking products
+
+---
+
+## 🚀 **Get Started**
+
+<div align="center">
+
+### **Ready to build yield-generating infrastructure?**
+
+[![Start Liquid Staking](https://img.shields.io/badge/💰_Start_Liquid_Staking-8--12%25_APY-success?style=for-the-badge&logo=ethereum)](https://app.projectpi.xyz/liquid-staking/)
+
+[![Try Liquid Agent](https://img.shields.io/badge/🤖_Try_Liquid_Agent-Web3_AI-blueviolet?style=for-the-badge&logo=openai)](#)
+
+[![Book Consultation](https://img.shields.io/badge/📞_Book_Consultation-Custom_Solutions-orange?style=for-the-badge&logo=calendly)](#)
+
+[![Visit Website](https://img.shields.io/badge/🌐_Visit_Website-projectpilabs.com-blue?style=for-the-badge&logo=safari)](https://projectpilabs.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📍 **Based in Atlanta, Georgia**
+*Building the future of decentralized infrastructure*
+
+**Project Pi Labs** | *Yield Generating Infrastructure Studio*
+
+---
+
+*Made with ❤️ for the decentralized future*
+
+</div>
