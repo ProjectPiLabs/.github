@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://via.placeholder.com/800x200/4676f0/ffffff?text=Project+Pi+Labs)
+![project pi banner](/assets/1500x500.jpeg)
 
 **Yield Generating Infrastructure Studio**
 
