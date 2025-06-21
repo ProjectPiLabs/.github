@@ -1,4 +1,4 @@
-# 🚀 Project Pi Labs
+# Project Pi Labs
 
 <div align="center">
 
