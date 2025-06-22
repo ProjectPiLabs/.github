@@ -39,7 +39,7 @@ We partner with **visionary founders**, **L1 ecosystems**, and **institutions** 
 
 - **🌟 Flagship**: **Liquid Agent** - The natural language layer for Web3 autonomy
 - **⚡ Focus**: AI for blockchain execution and autonomous Web3 interactions  
-- **🤝 Partnerships**: OpenAI integration + OVHcloud
+- **🤝 Partnerships**: [OpenAI](https://openai.com/) integration + [OVHcloud](https://www.ovhcloud.com/)
 - **🔮 Innovation**: Bridging traditional interfaces with blockchain functionality
 
 ### ⚡ **Validation & Computation**
@@ -89,16 +89,16 @@ We partner with **visionary founders**, **L1 ecosystems**, and **institutions** 
 <div align="center">
 
 ### **🔗 Blockchain Networks**
-Base | Ethereum | Polygon | SUI | XDC | XRPL | PulseChain
+[Base](https://base.org/) | [Ethereum](https://ethereum.org/) | [Polygon](https://polygon.technology/) | [SUI](https://sui.io/) | [XDC](https://xdc.org/) | [XRPL](https://xrpl.org/) | [PulseChain](https://pulsechain.com/)
 
 ### **🎓 Academic Partners**  
-Atlanta Blockchain Center | Georgia State University | Stillman College | Blockchain Legal Institute
+[Atlanta Blockchain Center](https://atlantablockchain.org/) | [Georgia State University](https://www.gsu.edu/) | [Stillman College](https://www.stillman.edu/) | [Blockchain Legal Institute](https://blockchaininstitute.org/)
 
 ### **🛡️ Security Partners**
-ChainAudits | Zokyo | RD Auditors | SourceHat
+[ChainAudits](https://chainaudits.com/) | [Zokyo](https://www.zokyo.io/) | [RD Auditors](https://www.rdauditors.com/) | [SourceHat](https://sourcehat.com/)
 
 ### **🏛️ Industry Organizations**
-Stand With Crypto | Various Blockchain Accelerators
+[Stand With Crypto](https://www.standwithcrypto.org/) | Various Blockchain Accelerators
 
 </div>
 
