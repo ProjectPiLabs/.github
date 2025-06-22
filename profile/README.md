@@ -29,7 +29,7 @@ We partner with **visionary founders**, **L1 ecosystems**, and **institutions** 
 ### 💰 **Yield Services**
 *"What if real-world solutions were built directly from Web3 infrastructure?"*
 
-- **🔥 Liquid Staking**: 8-12% APY returns
+- **🔥 Liquid Staking**: 4-6% APY returns
 - **🎯 Target**: Founders, enterprises, institutions, Web3 builders  
 - **🚀 Live App**: [app.projectpi.xyz/liquid-staking](https://app.projectpi.xyz/liquid-staking/)
 - **📞 Custom Solutions**: Available via consultation
