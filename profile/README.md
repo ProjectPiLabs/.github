@@ -9,7 +9,7 @@
 *Architects of advanced infrastructure at the edge of decentralization*
 
 [![Website](https://img.shields.io/badge/🌐_Website-projectpilabs.com-4676f0?style=for-the-badge)](https://labs.projectpi.xyz)
-[![Liquid Staking](https://img.shields.io/badge/💰_Liquid_Staking-8--12%25_APY-d072f1?style=for-the-badge)](https://app.projectpi.xyz/liquid-staking/)
+[![Liquid Staking](https://img.shields.io/badge/💰_Liquid_Staking-4--6%25_APY-d072f1?style=for-the-badge)](https://app.projectpi.xyz/liquid-staking/)
 [![AI Agent](https://img.shields.io/badge/🤖_Liquid_Agent-Web3_AI-9f5ef1?style=for-the-badge)](https://www.liquidagent.ai/)
 
 </div>
