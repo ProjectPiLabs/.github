@@ -134,7 +134,7 @@ We partner with **visionary founders**, **L1 ecosystems**, and **institutions** 
 [ChainAudits](https://chainaudits.com/) | [Zokyo](https://www.zokyo.io/) | [RD Auditors](https://www.rdauditors.com/) | [SourceHat](https://sourcehat.com/)
 
 ### **🏛️ Industry Organizations**
-[Stand With Crypto](https://www.standwithcrypto.org/) | Various Blockchain Accelerators
+[Stand With Crypto](https://www.standwithcrypto.org/) | [OVHcloud](https://us.ovhcloud.com/)
 
 </div>
 
