@@ -24,6 +24,42 @@ We partner with **visionary founders**, **L1 ecosystems**, and **institutions** 
 
 ---
 
+## 🚀 **Our Products**
+
+### 💰 **Pi Pools: Liquid Staking Protocol**
+*Permissionless validation with unlocked liquidity*
+
+[Pi Pools](https://www.projectpi.xyz/) revolutionizes liquid staking on PulseChain by allowing users to stake PLS, earn daily rewards, and maintain liquidity. Our innovative protocol introduces stPLS, a derivative token that accrues PLS rewards daily while enabling validators to stake with just 16M PLS instead of traditional requirements.
+
+**Key Features:**
+- **🔥 Liquid Staking**: Stake PLS, stay liquid, compound yield across DeFi
+- **⚡ Permissionless Validation**: Non-custodial validation with PPY collateral
+- **📞 Data Analytics**: [Real-time insights](https://data.projectpi.xyz/) and protocol metrics
+- **🛡️ Security Audited**: Multi-firm security validation
+
+### 🤖 **Liquid Agent: Web3 AI Assistant**
+*The natural language layer for Web3 autonomy*
+
+[Liquid Agent](https://www.liquidagent.ai/) transforms crypto complexity into intuitive conversations. Each wallet gets a personalized AI agent that handles trading, staking, and cross-chain transactions through simple chat interactions.
+
+**Key Features:**
+- **🌟 Natural Language Interface**: "Crypto shouldn't require a PhD"
+- **🔗 Cross-Chain Support**: Multi-chain transactions and strategies
+- **⚡ Non-Custodial**: Permissionless, chain-agnostic platform
+- **🏢 Institutional-Grade**: Advanced tools via conversational AI
+
+### 🤵 **GOTCHA: Wallet Interaction Revolution**
+*Reimagining how we interact with our wallets*
+
+[GOTCHA](https://www.gotchas.fun/) represents the next evolution in wallet user experience, fundamentally reimagining how users interact with their crypto wallets through innovative interface design and interaction patterns.
+
+**Vision:**
+- **🗣️ Enhanced UX**: Revolutionary wallet interaction design
+- **🏆 User-Centric**: Simplified, intuitive wallet management
+- **🔄 Future-Ready**: Next-generation wallet interaction paradigms
+
+---
+
 ## 🏗️ **Core Services**
 
 ### 💰 **Yield Services**
