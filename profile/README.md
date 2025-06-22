@@ -108,7 +108,7 @@ Stand With Crypto | Various Blockchain Accelerators
 
 | **🔥 Yield Focus** | **🤖 AI Pioneer** | **🏢 Enterprise Ready** | **🌟 Full Stack** |
 |:---:|:---:|:---:|:---:|
-| Everything built for 8-12% returns | Natural language Web3 interfaces | Serving startups to institutions | Smart contracts to user interfaces |
+| Everything built for 4-6% returns | Natural language Web3 interfaces | Serving startups to institutions | Smart contracts to user interfaces |
 
 ### **🏆 Key Differentiators**
 
