@@ -135,7 +135,7 @@ Stand With Crypto | Various Blockchain Accelerators
 
 ### **Ready to build yield-generating infrastructure?**
 
-[![Start Liquid Staking](https://img.shields.io/badge/💰_Start_Liquid_Staking-8--12%25_APY-success?style=for-the-badge&logo=ethereum)](https://app.projectpi.xyz/liquid-staking/)
+[![Start Liquid Staking](https://img.shields.io/badge/💰_Start_Liquid_Staking-4--6%25_APY-success?style=for-the-badge&logo=ethereum)](https://app.projectpi.xyz/liquid-staking/)
 
 [![Try Liquid Agent](https://img.shields.io/badge/🤖_Try_Liquid_Agent-Web3_AI-blueviolet?style=for-the-badge&logo=openai)](https://beta.liquidagent.ai/login)
 
